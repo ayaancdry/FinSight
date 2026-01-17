@@ -108,8 +108,6 @@ The app will open at `http://localhost:8501`
 
 ## Author
 
-Built as a portfolio project for BNY Mellon Data Science Internship application.
+Built as a portfolio project for self growth.
+Ayaan Choudhury
 
-## License
-
-MIT License
